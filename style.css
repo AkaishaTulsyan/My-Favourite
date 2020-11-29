@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: purple;
+    font-size: 50px;
+    font-family: Arial Black;
+}
+
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+p {
+    color: #880E4F;
+    font-family: Sans Serif;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    bottom: 30px;
+    cursor: pointer;
+    color: cornflowerblue;
+}
+.link {
+    display: inline;
+}
+.photo Gallery{
+    background:blue;
+    height: 800px;
+    width:500px;
+}
+h2{
+    color:crimson;
+}
